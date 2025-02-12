@@ -35,7 +35,16 @@ This dashboard focuses on **warehouse tracking**, showing where orders are store
 - 🏭 **Warehouse Assignment & Product Count per Warehouse**  
 - 📊 **Total Products Processed per Day**  
 - 🚛 **Shipping Cost Breakdown by Ship Mode**  
-- 🏬 **Warehouse Prioritization Based on Order Volume**  
+- 🏬 **Warehouse Prioritization Based on Order Volume**
+
+---
+
+## 📌 Screenshots
+### **Customer Order Dashboard:**
+![Customer Order Dashboard](Screenshot2.png)
+
+### **Order Tracking Dashboard:**
+![Order Tracking Dashboard](Screenshot1.png)
 
 #### 📊 Visuals Used:
 - **Map Visualization**: Order Distribution Across Warehouses  
@@ -51,27 +60,13 @@ This dashboard focuses on **warehouse tracking**, showing where orders are store
 
 ---
 
-## ⚡ How to Use This Dashboard
-1. **Filter by Date:** Use the date slicer to view orders for specific periods.  
-2. **Drill Down by Warehouse:** Click on warehouse locations to analyze order distribution.  
-3. **Analyze Sales Trends:** Use interactive graphs to explore category-wise performance.  
-4. **Track Orders:** View real-time order tracking based on status and priority.  
-
----
 
 ## 🚀 Technologies Used
 - **Power BI** for data visualization  
 - **DAX (Data Analysis Expressions)** for custom measures  
 - **Power Query** for data transformation  
 
----
 
-## 📌 Screenshots
-### **Customer Order Dashboard:**
-![Customer Order Dashboard](Screenshot2.png)
-
-### **Order Tracking Dashboard:**
-![Order Tracking Dashboard](Screenshot1.png)
 
 ---
 
