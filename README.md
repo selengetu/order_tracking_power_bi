@@ -54,25 +54,8 @@ This dashboard focuses on **warehouse tracking**, showing where orders are store
 
 ---
 
-## 📂 Data Sources
-- **Order Dataset** (Customer orders, delivery status, order priority)  
-- **Warehouse Locations** (Latitude & Longitude, Warehouse Assignments)  
-
----
-
-
 ## 🚀 Technologies Used
 - **Power BI** for data visualization  
 - **DAX (Data Analysis Expressions)** for custom measures  
 - **Power Query** for data transformation  
-
-
-
----
-
-## 🔮 Future Enhancements
-- Add **real-time tracking updates**.  
-- Integrate **external API data sources** (live shipment tracking).  
-- Implement **predictive analytics** for demand forecasting.  
-
 
