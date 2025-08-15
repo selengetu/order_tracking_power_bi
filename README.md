@@ -1,6 +1,6 @@
-# 📌 Customer Order & Tracking Dashboard - Power BI
+# Customer Order & Tracking Dashboard - Power BI
 
-## 📝 Overview
+## Overview
 This Power BI project provides insights into **customer orders and product tracking** using **interactive dashboards**. It visualizes order status, sales trends, shipping details, and warehouse assignments.
 
 ---
